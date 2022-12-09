@@ -7,6 +7,7 @@
 2. Tableau 簡介與安裝
 3. Tableau Open Data 視覺化工作表
 4. Tableau 版面優化
+https://github.com/rwepa/Talks/blob/main/tableau_tutorial_basic.pdf
 
 
 # Tableau資料分析與視覺化工具實作教師工作坊(進階)
@@ -16,14 +17,16 @@
 4. Tableau 儀表板與說故事功能
 5. 線上發表專屬視覺分析網頁
 6. Tableau + R
-
+https://github.com/rwepa/Talks/blob/main/tableau_tutorial_advanced.pdf
 
 # Tableau與R語言實務應用
 1. 資料分析的心法
 2. R, RStudio簡介
 3. Tableau與R整合應用
+https://github.com/rwepa/Talks/blob/main/tableau_r.pdf
 
 # Tableau與資料庫實務應用
 1. MySQL下載與安裝
 2. MySQL Shell與MySQL Workbench簡介
 3. Tableau與MySQL資料庫整合應用
+https://github.com/rwepa/Talks/blob/main/tableau_mysql.pdf
