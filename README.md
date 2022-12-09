@@ -1,5 +1,15 @@
 # Talks (專題演講 Slides)
 
+# Python醫療大數據應用 2022.11.17
+1. 醫療大數據應用
+2. Python/Anaconda環境介紹
+3. 全⺠健保資料庫
+4. 深度學習的發展
+5. 皮馬印第安人糖尿病預測分析
+6. Q & A
+
+https://github.com/rwepa/Talks/blob/main/python_healthcare_bigdata.pdf
+
 # Tableau資料分析與視覺化工具實作教師工作坊(初階) 2022.09.22
 1. 資料分析的心法
 2. Tableau 簡介與安裝
