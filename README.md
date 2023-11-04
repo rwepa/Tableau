@@ -45,3 +45,6 @@ https://github.com/rwepa/Talks/blob/main/tableau_r.pdf
 3. Tableau與MySQL資料庫整合應用
 
 https://github.com/rwepa/Talks/blob/main/tableau_mysql.pdf
+
+# 智慧製造Tableau運用實務 2023.10.17
+https://public.tableau.com/app/profile/ming.chang.lee/vizzes
