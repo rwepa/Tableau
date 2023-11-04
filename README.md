@@ -52,7 +52,7 @@
 # 智慧製造Tableau運用實務 2023.10.17
 + Tableau下載 https://public.tableau.com/app/profile/ming.chang.lee/vizzes
 
-# 育達科技大學 人工智慧企業創新應用 2023.10.30,11.06
+# 人工智慧企業創新應用 2023.10.30,11.06
 + Tableau下載 https://public.tableau.com/app/profile/ming.chang.lee/vizzes
 
 + 講義下載 https://github.com/rwepa/Tableau/blob/main/tableau_business_innovation.pdf
