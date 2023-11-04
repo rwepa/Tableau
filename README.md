@@ -1,4 +1,4 @@
-# Tableau 專題演講
+# 專題演講 (R, Python, Tableau, Power BI)
 
 # Tableau資料分析與視覺化工具實作教師工作坊(初階) 2022.09.22
 
