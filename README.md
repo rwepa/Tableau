@@ -53,6 +53,8 @@
 + Tableau下載 https://public.tableau.com/app/profile/ming.chang.lee/vizzes
 
 # 人工智慧企業創新應用 2023.10.30,11.06
++ 強化 Tableau Public免費線上版 使用說明
+
 + Tableau下載 https://public.tableau.com/app/profile/ming.chang.lee/vizzes
 
 + 講義下載 https://github.com/rwepa/Tableau/blob/main/tableau_business_innovation.pdf
