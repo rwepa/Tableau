@@ -38,23 +38,23 @@
 # Tableau與R語言實務應用 2022.12.01
 1. 資料分析的心法
 2. R, RStudio簡介
-3. Tableau與R整合應用
+3. Tableau 與 R 整合應用
 
 + 講義下載 https://github.com/rwepa/Talks/blob/main/tableau_r.pdf
 
 # Tableau與資料庫實務應用 2022.12.08
 1. MySQL下載與安裝
-2. MySQL Shell與MySQL Workbench簡介
-3. Tableau與MySQL資料庫整合應用
+2. MySQL Shell 與 MySQL Workbench 簡介
+3. Tableau 與 MySQL資料庫整合應用
 
 + 講義下載 https://github.com/rwepa/Talks/blob/main/tableau_mysql.pdf
 
 # 智慧製造Tableau運用實務 2023.10.17
-+ Tableau下載 https://public.tableau.com/app/profile/ming.chang.lee/vizzes
++ Tableau下載(twbx檔案) https://public.tableau.com/app/profile/ming.chang.lee/vizzes
 
 # 人工智慧企業創新應用 2023.10.30,11.06
 + 強化 Tableau Public免費線上版 登入,註冊,使用說明 https://public.tableau.com/
 
-+ Tableau下載 https://public.tableau.com/app/profile/ming.chang.lee/vizzes
++ Tableau下載(twbx檔案) https://public.tableau.com/app/profile/ming.chang.lee/vizzes
 
 + 講義下載 https://github.com/rwepa/Tableau/blob/main/tableau_business_innovation.pdf
